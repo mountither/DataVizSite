@@ -5,15 +5,16 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "keywords": [
     "test",
     "experiment"
   ],
-  "author": "monti",
+  "author": "mountither",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
